@@ -22,7 +22,7 @@ warnings.filterwarnings(action='ignore', category=UserWarning)
 warnings.filterwarnings(action='ignore', category=FutureWarning)
 warnings.filterwarnings(action='ignore', category=ResourceWarning)
 
-sys.path.append(r'/home/apulis-test/userdata/code/mycode/my_mmyolo-main')
+sys.path.append(r'./')
 from prepostcess import get_image
 
 

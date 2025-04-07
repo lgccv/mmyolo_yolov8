@@ -3,8 +3,8 @@ https://github.com/open-mmlab/mmyolo/tree/main/configs/yolov8
 yolov8_l_syncbn_fast_8xb16-500e_coco_20230217_182526-189611b6.pth
 
 通过百度网盘分享的文件：yolov8_l_syncbn_fast_8xb16-500e_coc...
-网盘链接：https://pan.baidu.com/s/1SI8HWNuIc3hHh-XUYk0ohQ?pwd=x3fh 
-提取码：x3fh 
+网盘链接:https://pan.baidu.com/s/1SI8HWNuIc3hHh-XUYk0ohQ?pwd=x3fh 
+提取码:x3fh 
 
 
 # 精视项目
